@@ -1,0 +1,31 @@
+[{
+  "id": 1,
+  "name": "Apple"
+}, {
+  "id": 2,
+  "name": "Samsung"
+}, {
+  "id": 3,
+  "name": "Huawei"
+}, {
+  "id": 4,
+  "name": "Dell Technologies"
+}, {
+  "id": 5,
+  "name": "LG"
+}, {
+  "id": 6,
+  "name": "Sony"
+}, {
+  "id": 7,
+  "name": "Panasonic"
+}, {
+  "id": 8,
+  "name": "HP"
+}, {
+  "id": 9,
+  "name": "Philips"
+}, {
+  "id": 10,
+  "name": "Haier"
+}]
