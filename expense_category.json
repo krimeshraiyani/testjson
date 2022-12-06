@@ -1,25 +1,601 @@
 [{
   "id": 1,
-  "name": "Advertising"
+  "name": "Ropinirole Hydrochloride",
+  "description": null,
+  "is_editable": false,
+  "status": true
 }, {
   "id": 2,
-  "name": "Education"
+  "name": "English Plantain",
+  "description": null,
+  "is_editable": false,
+  "status": true
 }, {
   "id": 3,
-  "name": "Insurance"
+  "name": "QUERCUS ALBA POLLEN",
+  "description": null,
+  "is_editable": true,
+  "status": false
 }, {
   "id": 4,
-  "name": "Telephone"
+  "name": "Methocarbamol",
+  "description": null,
+  "is_editable": false,
+  "status": false
 }, {
   "id": 5,
-  "name": "Rent"
+  "name": "Ziprasidone Hydrochloride",
+  "description": null,
+  "is_editable": false,
+  "status": false
 }, {
   "id": 6,
-  "name": "Salaries"
+  "name": "Habitrol Patch",
+  "description": null,
+  "is_editable": false,
+  "status": true
 }, {
   "id": 7,
-  "name": "Travel"
+  "name": "Sodium Chloride",
+  "description": null,
+  "is_editable": false,
+  "status": false
 }, {
   "id": 8,
-  "name": "Petrol"
+  "name": "Gentamicin",
+  "description": null,
+  "is_editable": false,
+  "status": true
+}, {
+  "id": 9,
+  "name": "Rhus Aconitum",
+  "description": null,
+  "is_editable": false,
+  "status": false
+}, {
+  "id": 10,
+  "name": "Bowel Digestive Care",
+  "description": null,
+  "is_editable": false,
+  "status": false
+}, {
+  "id": 11,
+  "name": "Fremont Cottonwood Pollen",
+  "description": null,
+  "is_editable": false,
+  "status": true
+}, {
+  "id": 12,
+  "name": "Gabapentin",
+  "description": null,
+  "is_editable": false,
+  "status": true
+}, {
+  "id": 13,
+  "name": "Amitriptyline Hydrochloride",
+  "description": null,
+  "is_editable": false,
+  "status": false
+}, {
+  "id": 14,
+  "name": "Relpax",
+  "description": null,
+  "is_editable": false,
+  "status": true
+}, {
+  "id": 15,
+  "name": "Orphenadrine Citrate",
+  "description": null,
+  "is_editable": false,
+  "status": true
+}, {
+  "id": 16,
+  "name": "Refill Saline Packets",
+  "description": null,
+  "is_editable": false,
+  "status": true
+}, {
+  "id": 17,
+  "name": "good neighbor pharmacy nicotine",
+  "description": null,
+  "is_editable": false,
+  "status": true
+}, {
+  "id": 18,
+  "name": "ULTRA SEAL Triple Antibiotic",
+  "description": null,
+  "is_editable": false,
+  "status": false
+}, {
+  "id": 19,
+  "name": "Gabapentin",
+  "description": null,
+  "is_editable": true,
+  "status": false
+}, {
+  "id": 20,
+  "name": "FARXIGA",
+  "description": null,
+  "is_editable": false,
+  "status": false
+}, {
+  "id": 21,
+  "name": "LBEL COULEUR LUXE AMPLIFIER XP",
+  "description": null,
+  "is_editable": false,
+  "status": true
+}, {
+  "id": 22,
+  "name": "PROCORT",
+  "description": null,
+  "is_editable": true,
+  "status": true
+}, {
+  "id": 23,
+  "name": "Carvedilol",
+  "description": null,
+  "is_editable": false,
+  "status": true
+}, {
+  "id": 24,
+  "name": "Sterile Water",
+  "description": null,
+  "is_editable": true,
+  "status": false
+}, {
+  "id": 25,
+  "name": "Disney Antibacterial Hand Wipes - TOY STORY, CARS, MONSTERS UNIVERSITY",
+  "description": null,
+  "is_editable": false,
+  "status": true
+}, {
+  "id": 26,
+  "name": "Clomipramine Hydrochloride",
+  "description": null,
+  "is_editable": true,
+  "status": true
+}, {
+  "id": 27,
+  "name": "PredniSONE",
+  "description": null,
+  "is_editable": false,
+  "status": true
+}, {
+  "id": 28,
+  "name": "Sleep II",
+  "description": null,
+  "is_editable": false,
+  "status": false
+}, {
+  "id": 29,
+  "name": "BencoCaine Topical Anesthetic",
+  "description": null,
+  "is_editable": false,
+  "status": true
+}, {
+  "id": 30,
+  "name": "Geodon",
+  "description": null,
+  "is_editable": false,
+  "status": false
+}, {
+  "id": 31,
+  "name": "Good Sense dayhist allergy",
+  "description": null,
+  "is_editable": false,
+  "status": false
+}, {
+  "id": 32,
+  "name": "Losartan Potassium and Hydrochlorothiazide",
+  "description": null,
+  "is_editable": false,
+  "status": false
+}, {
+  "id": 33,
+  "name": "Dermamine",
+  "description": null,
+  "is_editable": false,
+  "status": false
+}, {
+  "id": 34,
+  "name": "Secret Natural Mineral",
+  "description": null,
+  "is_editable": true,
+  "status": true
+}, {
+  "id": 35,
+  "name": "Quack Grass",
+  "description": null,
+  "is_editable": false,
+  "status": true
+}, {
+  "id": 36,
+  "name": "Mucinex",
+  "description": null,
+  "is_editable": false,
+  "status": false
+}, {
+  "id": 37,
+  "name": "NEUROSPORA INTERMEDIA",
+  "description": null,
+  "is_editable": true,
+  "status": true
+}, {
+  "id": 38,
+  "name": "ANTIBACTERIAL HAND SANITIZER",
+  "description": null,
+  "is_editable": false,
+  "status": true
+}, {
+  "id": 39,
+  "name": "COCHLIOBOLUS SATIVUS",
+  "description": null,
+  "is_editable": false,
+  "status": false
+}, {
+  "id": 40,
+  "name": "FERROUS SULFATE",
+  "description": null,
+  "is_editable": false,
+  "status": false
+}, {
+  "id": 41,
+  "name": "Dicyclomine Hydrochloride",
+  "description": null,
+  "is_editable": true,
+  "status": true
+}, {
+  "id": 42,
+  "name": "GRAPHITES",
+  "description": null,
+  "is_editable": true,
+  "status": false
+}, {
+  "id": 43,
+  "name": "Atropine Sulfate",
+  "description": null,
+  "is_editable": false,
+  "status": false
+}, {
+  "id": 44,
+  "name": "Extreme Anti-Wrinkle Care SPF 30",
+  "description": null,
+  "is_editable": true,
+  "status": true
+}, {
+  "id": 45,
+  "name": "Pristiq",
+  "description": null,
+  "is_editable": true,
+  "status": true
+}, {
+  "id": 46,
+  "name": "UltrasolSunscreen",
+  "description": null,
+  "is_editable": false,
+  "status": true
+}, {
+  "id": 47,
+  "name": "Stomach Disorders",
+  "description": null,
+  "is_editable": true,
+  "status": false
+}, {
+  "id": 48,
+  "name": "Hand Wash Nettoyant Pour Les Mains Plum Grapefruit",
+  "description": null,
+  "is_editable": true,
+  "status": false
+}, {
+  "id": 49,
+  "name": "Herbal UTAPLAS.TN",
+  "description": null,
+  "is_editable": true,
+  "status": true
+}, {
+  "id": 50,
+  "name": "Hangover Relief",
+  "description": null,
+  "is_editable": false,
+  "status": false
+}, {
+  "id": 51,
+  "name": "Pramipexole Dihydrochloride",
+  "description": null,
+  "is_editable": true,
+  "status": false
+}, {
+  "id": 52,
+  "name": "Oral-B Neutra-Foam Mint",
+  "description": null,
+  "is_editable": false,
+  "status": true
+}, {
+  "id": 53,
+  "name": "Milrinone Lactate",
+  "description": null,
+  "is_editable": true,
+  "status": false
+}, {
+  "id": 54,
+  "name": "Clindamycin hydrochloride",
+  "description": null,
+  "is_editable": false,
+  "status": false
+}, {
+  "id": 55,
+  "name": "ATACAND",
+  "description": null,
+  "is_editable": true,
+  "status": true
+}, {
+  "id": 56,
+  "name": "Kit for the Preparation of Technetium Tc99m Sestamibi",
+  "description": null,
+  "is_editable": false,
+  "status": true
+}, {
+  "id": 57,
+  "name": "Laxative Pills",
+  "description": null,
+  "is_editable": true,
+  "status": true
+}, {
+  "id": 58,
+  "name": "Terocin",
+  "description": null,
+  "is_editable": true,
+  "status": false
+}, {
+  "id": 59,
+  "name": "MUCOSA",
+  "description": null,
+  "is_editable": false,
+  "status": false
+}, {
+  "id": 60,
+  "name": "promethazine hydrochloride",
+  "description": null,
+  "is_editable": false,
+  "status": true
+}, {
+  "id": 61,
+  "name": "Cefoxitin",
+  "description": null,
+  "is_editable": false,
+  "status": false
+}, {
+  "id": 62,
+  "name": "Triamterene and Hydrochlorothiazide",
+  "description": null,
+  "is_editable": false,
+  "status": true
+}, {
+  "id": 63,
+  "name": "Vicks NyQuil Cold and Flu Nighttime Relief and Vicks Childrens NyQuil Cold and Cough",
+  "description": null,
+  "is_editable": true,
+  "status": true
+}, {
+  "id": 64,
+  "name": "Birch Juniper Rejuvenation",
+  "description": null,
+  "is_editable": true,
+  "status": true
+}, {
+  "id": 65,
+  "name": "Caraway Seed",
+  "description": null,
+  "is_editable": false,
+  "status": false
+}, {
+  "id": 66,
+  "name": "Recens A",
+  "description": null,
+  "is_editable": true,
+  "status": true
+}, {
+  "id": 67,
+  "name": "Prednisone",
+  "description": null,
+  "is_editable": true,
+  "status": true
+}, {
+  "id": 68,
+  "name": "ISA KNOX 365 BB SUNSCREEN Broad Spectrum SPF 40, PA",
+  "description": null,
+  "is_editable": false,
+  "status": true
+}, {
+  "id": 69,
+  "name": "Spironolactone",
+  "description": null,
+  "is_editable": true,
+  "status": true
+}, {
+  "id": 70,
+  "name": "ABILIFY",
+  "description": null,
+  "is_editable": false,
+  "status": false
+}, {
+  "id": 71,
+  "name": "Hydroxyzine Pamoate",
+  "description": null,
+  "is_editable": false,
+  "status": false
+}, {
+  "id": 72,
+  "name": "Sodium Bicarbonate",
+  "description": null,
+  "is_editable": true,
+  "status": true
+}, {
+  "id": 73,
+  "name": "Pravastatin Sodium",
+  "description": null,
+  "is_editable": true,
+  "status": false
+}, {
+  "id": 74,
+  "name": "Morphine Sulfate",
+  "description": null,
+  "is_editable": true,
+  "status": true
+}, {
+  "id": 75,
+  "name": "Homeopathic Fear and Anxiety Formula",
+  "description": null,
+  "is_editable": false,
+  "status": false
+}, {
+  "id": 76,
+  "name": "Levothyroxine Sodium",
+  "description": null,
+  "is_editable": true,
+  "status": false
+}, {
+  "id": 77,
+  "name": "Modafinil",
+  "description": null,
+  "is_editable": true,
+  "status": true
+}, {
+  "id": 78,
+  "name": "Denti-Care Denti-Pro",
+  "description": null,
+  "is_editable": true,
+  "status": false
+}, {
+  "id": 79,
+  "name": "Sertraline Hydrochloride",
+  "description": null,
+  "is_editable": false,
+  "status": false
+}, {
+  "id": 80,
+  "name": "Neutrogena Skin Clearing",
+  "description": null,
+  "is_editable": true,
+  "status": true
+}, {
+  "id": 81,
+  "name": "Enema",
+  "description": null,
+  "is_editable": true,
+  "status": true
+}, {
+  "id": 82,
+  "name": "Cold and Flu",
+  "description": null,
+  "is_editable": false,
+  "status": false
+}, {
+  "id": 83,
+  "name": "tussin",
+  "description": null,
+  "is_editable": true,
+  "status": true
+}, {
+  "id": 84,
+  "name": "MISSHA M SIGNATURE RADIANCE FOUNDATION",
+  "description": null,
+  "is_editable": true,
+  "status": false
+}, {
+  "id": 85,
+  "name": "Childrens Acetaminophen",
+  "description": null,
+  "is_editable": false,
+  "status": true
+}, {
+  "id": 86,
+  "name": "SAFEYWAY CARE",
+  "description": null,
+  "is_editable": false,
+  "status": true
+}, {
+  "id": 87,
+  "name": "Neutrogena Rapid Wrinkle Repair Moisturizer",
+  "description": null,
+  "is_editable": true,
+  "status": true
+}, {
+  "id": 88,
+  "name": "Acetaminophen",
+  "description": null,
+  "is_editable": false,
+  "status": true
+}, {
+  "id": 89,
+  "name": "Dicyclomine Hydrochloride",
+  "description": null,
+  "is_editable": false,
+  "status": true
+}, {
+  "id": 90,
+  "name": "Cetirizine Hydrochloride",
+  "description": null,
+  "is_editable": false,
+  "status": true
+}, {
+  "id": 91,
+  "name": "Constulose",
+  "description": null,
+  "is_editable": true,
+  "status": true
+}, {
+  "id": 92,
+  "name": "Ciprofloxacin hydrochloride",
+  "description": null,
+  "is_editable": false,
+  "status": false
+}, {
+  "id": 93,
+  "name": "Acarbose",
+  "description": null,
+  "is_editable": false,
+  "status": true
+}, {
+  "id": 94,
+  "name": "ASPERGILLUS FUMIGATUS",
+  "description": null,
+  "is_editable": false,
+  "status": false
+}, {
+  "id": 95,
+  "name": "bareMinerals bareSkin Pure Brightening Serum Foundation Broad Spectrum SPF 20",
+  "description": null,
+  "is_editable": false,
+  "status": true
+}, {
+  "id": 96,
+  "name": "Promethazine Hydrochloride",
+  "description": null,
+  "is_editable": false,
+  "status": true
+}, {
+  "id": 97,
+  "name": "Donepezil Hydrochloride",
+  "description": null,
+  "is_editable": true,
+  "status": false
+}, {
+  "id": 98,
+  "name": "Tussin DM",
+  "description": null,
+  "is_editable": true,
+  "status": false
+}, {
+  "id": 99,
+  "name": "TopCare Sinus and Allergy PE",
+  "description": null,
+  "is_editable": true,
+  "status": true
+}, {
+  "id": 100,
+  "name": "Promethazine hydrochloride",
+  "description": null,
+  "is_editable": true,
+  "status": true
 }]
